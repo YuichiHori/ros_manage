@@ -7,7 +7,7 @@ def topic_info(node_name):
 
     Parameters
     ----------
-    node_name : char
+    node_name : 
         ノード名
 
     Returns
